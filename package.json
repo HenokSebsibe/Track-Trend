@@ -4,6 +4,7 @@
   "description": "//agent performs multiple steps autonomously:\r //1.scrape data(Decoda)\r //2.parce and structure it\r //3.analyse patterns\r //4.generate predictions\r //5.display recomendations",
   "main": "index.js",
   "scripts": {
+    "cli": "node cli.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
